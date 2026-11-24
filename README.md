@@ -3,8 +3,7 @@
 Computer Science student at **Insper** (2026–2029). I build web systems end to end —
 from framing the problem with the client to a working application in production.
 
-Currently a web developer through **202**, an AI-native builder program,
-shipping projects for real clients.
+Currently a web developer through **202**, an AI-native builder program.
 
 **Stack:** TypeScript · React · Next.js · Supabase (PostgreSQL) · Vercel · Vitest · Playwright
 
